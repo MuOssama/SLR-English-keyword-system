@@ -1,0 +1,76 @@
+{
+  "cards": [
+    {
+      "keyword": "ephemeral",
+      "meaning": "lasting for a very short time",
+      "ease": 2.3600000000000003,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": "2026-09-20T15:29:03"
+    },
+    {
+      "keyword": "ubiquitous",
+      "meaning": "present or found everywhere at the same time",
+      "ease": 2.5,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": "2026-09-20T15:29:12"
+    },
+    {
+      "keyword": "meticulous",
+      "meaning": "showing great attention to detail; very careful",
+      "ease": 1.96,
+      "interval": 0,
+      "reps": 0,
+      "lapses": 1,
+      "due": "2026-09-19T15:39:24"
+    },
+    {
+      "keyword": "benevolent",
+      "meaning": "kind, generous and wanting to help other people",
+      "ease": 2.6,
+      "interval": 1,
+      "reps": 1,
+      "lapses": 0,
+      "due": "2026-09-20T15:29:33"
+    },
+    {
+      "keyword": "abandon",
+      "meaning": "leave completely",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "lapses": 0,
+      "due": "2026-09-19T15:31:22"
+    },
+    {
+      "keyword": "accurate",
+      "meaning": "correct and exact",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "lapses": 0,
+      "due": "2026-09-19T15:31:22"
+    },
+    {
+      "keyword": "achieve",
+      "meaning": "successfully reach a goal",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "lapses": 0,
+      "due": "2026-09-19T15:31:22"
+    },
+    {
+      "keyword": "benefit",
+      "meaning": "an advantage",
+      "ease": 2.5,
+      "interval": 0,
+      "reps": 0,
+      "lapses": 0,
+      "due": "2026-09-19T15:31:22"
+    }
+  ]
+}
